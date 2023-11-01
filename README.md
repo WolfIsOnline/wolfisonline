@@ -1,7 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Cameron! <br/><a href="https://www.linkedin.com/in/cameron-kauffman">Linux System Admin</a>, <a href="https://github.com/wolfisonline">Programmer</a></h1>
+
+<h2>👨‍💻 Python Projects:</h2>
+
+- <b>Discord AI chat & moderation bot</b>
+  - [Wolfie](https://github.com/WolfIsOnline/WolfieBot)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Cameron Kauffman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/cameron-kauffman
 
 <!--
-**WolfIsOnline/wolfisonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
