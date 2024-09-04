@@ -1,5 +1,3 @@
-<h1>Hi, I'm Cameron! <br/><a href="https://www.linkedin.com/in/cameron-kauffman">System Admin</a>, <a href="https://github.com/wolfisonline">Programmer</a></h1>
-
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Discord AI chat & moderation bot</b>
